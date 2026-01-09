@@ -4,5 +4,3 @@ Java ECS engine with sample game to showcase some capabilities.
 
 [![Watch the video](https://img.youtube.com/vi/cyyq-OVNSw8/hqdefault.jpg)](https://www.youtube.com/embed/cyyq-OVNSw8)
 
-[<img src="https://img.youtube.com/vi/cyyq-OVNSw8/hqdefault.jpg" width="600" height="300"
-/>](https://www.youtube.com/embed/cyyq-OVNSw8)
